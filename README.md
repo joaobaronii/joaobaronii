@@ -6,7 +6,7 @@
 
 #
 <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,java,python,go,linux,postgres,git&theme=light")/>
+          <img src="https://skillicons.dev/icons?i=c,java,python,go,linux,postgres,git,docker&theme=light")/>
 </a>
 </br>
 
