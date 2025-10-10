@@ -7,19 +7,21 @@
 
 #
 
-### 🗣️ Languages
+### 🛠️ My Stack
+
+#### 🗣️ Languages
 <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=c,java,python,go&theme=dark")/>
 </a>
 </br>
 
-### 👾 Frameworks
+#### 👾 Frameworks
 <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=fastapi,spring&theme=dark")/>
 </a>
 </br>
 
-### 🔧 Tools
+#### 🔧 Tools
 <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=linux,postgres,git,docker,postman&theme=dark")/>
 </a>
