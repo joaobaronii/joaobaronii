@@ -19,7 +19,7 @@
 </a>
 </br>
 
-### 👾 Tools
+### 🔧 Tools
 <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=linux,postgres,git,docker,postman&theme=dark")/>
 </a>
