@@ -3,7 +3,6 @@
 
 ### 👨‍💻 About Me
 - 🎓 I'm currently studying Computer Science at the **Universidade Federal de Uberlândia**
-- 📚 My main focus is studying **Backend Development**
 
 #
 
