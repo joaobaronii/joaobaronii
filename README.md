@@ -25,7 +25,4 @@
 
 #
 
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaronii&layout=compact&theme=tokyonight" />
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaronii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
