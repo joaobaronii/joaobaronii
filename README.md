@@ -1,12 +1,12 @@
 # Hey, I'm João Baroni👋
 
 
-### 👨‍💻 About Me
-- 🎓 I'm currently studying Computer Science at the **Universidade Federal de Uberlândia**
+###  About Me
+-  I'm currently studying Computer Science at the **Universidade Federal de Uberlândia**
 
 #
 
-### 🛠️ Tools
+### Tools
 
 <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=c,java,python,go&theme=dark")/>
